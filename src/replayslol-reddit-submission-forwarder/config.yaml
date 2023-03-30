@@ -1,0 +1,3 @@
+queue:
+  name: "replays-lol-reddit-bot"
+  host: "localhost"
